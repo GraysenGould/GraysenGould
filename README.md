@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GraysenGould
 - 👀 I’m interested in python projects.
 - 🌱 I am currently studying Computer Science at Texas Tech University
-- 💞️ I’m looking to collaborate on beginner python projects to get my feet wet
+- 💞️ I’m looking to collaborate on projects and gain experience
 - 📫 Reach me at my LinkedIn! linkedin.com/in/graysengould/
 
 <!---
