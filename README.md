@@ -2,7 +2,7 @@
 
 # Hi, I'm Graysen Gould 👋
 
-Computer Science student at Texas Tech University, working across reinforcement learning, HPC/parallel computing, and full-stack dashboards.
+Computer Science student at Texas Tech University, working across reinforcement learning and HPC/parallel computing
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-graysengould.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://graysengould.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-graysengould-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graysengould/)
@@ -17,8 +17,6 @@ Computer Science student at Texas Tech University, working across reinforcement 
 - 🎓 Studying Computer Science at Texas Tech University
 - 🔬 Researching CIP methodologies for Reinforcement Learning policies at the **CI2 Lab**
 - ⚙️ Past work spans distributed computing (OpenSHMEM), DevOps tooling at **NVIDIA**, and deployment tooling at **Tyler Technologies**
-- 🌱 Currently interested in RL, systems programming, and developer tooling
-- 💞️ Open to collaborating on interesting Python / systems projects
 
 ---
 
